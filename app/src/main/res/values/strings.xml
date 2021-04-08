@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Conversión de Unidades</string>
+    <string name="divisas">Divisas</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="distancia">Distancia</string>
+    <string name="masa">Masa</string>
+    <string name="tiempo">Tiempo</string>
+
+
+    <string name="div_USD">Dólar americano</string>
+    <string name="div_EUR">Euro</string>
+    <string name="div_JPY">Yen japones</string>
+    <string name="div_GBP">Libra esterlina</string>
+    <string name="div_CHF">Franco suizo</string>
+    <string name="div_AUD">Dólar australiano</string>
+    <string name="div_KWD">Dinar kuwaití</string>
+    <string name="div_AED">Dírham de los Emiratos Árabes Unidos</string>
+    <string name="div_CAD">Dólar canadiense</string>
+    <string name="div_HKD">Dólar de Hong Kong</string>
+
+    <string name="temp_c">°Celsius</string>
+    <string name="temp_f">°Fahrenheit</string>
+    <string name="temp_k">Kelvin</string>
+    <string name="temp_r">°Rankine</string>
+
+    <string name="dis_km">Kilómetro</string>
+    <string name="dis_m">Metro</string>
+    <string name="dis_cm">Centímetro</string>
+    <string name="dis_mm">Milímetro</string>
+    <string name="dis_mcm">Micrómetro</string>
+    <string name="dis_nm">Nanómetro</string>
+    <string name="dis_mi">Milla</string>
+    <string name="dis_yd">Yarda</string>
+    <string name="dis_ft">Pie</string>
+    <string name="dis_in">Pulgada</string>
+    <string name="dis_min">Milla náutica</string>
+
+    <string name="mas_ton">Tonelada</string>
+    <string name="mas_kg">Kilogramo</string>
+    <string name="mas_g">Gramo</string>
+    <string name="mas_mg">Miligramo</string>
+    <string name="mas_mcg">Microgramo</string>
+    <string name="mas_lb">Libra</string>
+    <string name="mas_oz">Onza</string>
+
+    <string name="tie_ms">Milisegundo</string>
+    <string name="tie_s">Segundo</string>
+    <string name="tie_min">Minuto</string>
+    <string name="tie_hr">Hora</string>
+    <string name="tie_dia">Día</string>
+    <string name="tie_mes">Mes</string>
+    <string name="tie_agno">Año</string>
+
+</resources>
